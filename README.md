@@ -1,4 +1,4 @@
-> **_NOTE:_** Implemted fix to setup.sh as per https://github.com/soxfor/qbittorrent-natmap/issues/23#issuecomment-2182422349
+> **_NOTE:_** This forked repo implements a fix to the unmaintained qBittorrent-NatMap project. Changes were made to `start.sh` as per https://github.com/soxfor/qbittorrent-natmap/issues/23#issuecomment-2182422349.
 
 # qBittorrent-NatMap 
 
