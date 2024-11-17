@@ -1,3 +1,5 @@
+> **_NOTE:_** Implemted fix to setup.sh as per https://github.com/soxfor/qbittorrent-natmap/issues/23#issuecomment-2182422349
+
 # qBittorrent-NatMap 
 
 The objective of this container is to run a script that requests a port forward (via NAT-PMP) from the VPN provider and upon success changes the listening port of the qBittorrent client when running in Docker
